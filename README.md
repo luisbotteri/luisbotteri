@@ -1,5 +1,3 @@
-![](https://1drv.ms/i/c/8fd6383f3b348d82/EQwMtRjxSQFNotCb-EniEgEBH9oiM1WGaO0I_sFPVEGaHg?e=XiNITX)
-
 # 👋 ¡Hola! Soy Luie
 
 🎓 Estudiante de Data Science  
@@ -24,3 +22,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisbotteri/)
 [![Hotmail](https://img.shields.io/badge/hotmail-grey?style=flat&logo=gmail&logoColor=white)](mailto:luisbotteri30@hotmail.com)
+![](https://1drv.ms/i/c/8fd6383f3b348d82/EQwMtRjxSQFNotCb-EniEgEBH9oiM1WGaO0I_sFPVEGaHg?e=XiNITX)
