@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luie
 
-<!--
-**luisbotteri/luisbotteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Data Science  
+🐍 Desarrollador en Python  
+🌍 Desde Buenos Aires, Argentina  
+🚀 Apasionado por resolver problemas con datos
 
-Here are some ideas to get you started:
+## 🧰 Tecnologías que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📌 Repos destacados
+
+- 🔐 [control-de-ingreso-python](https://github.com/luisbotteri/python-control-ingreso): sistema básico de validación de entrada.
+- 🧮 [area-del-circulo-python](https://github.com/luisbotteri/python-area-circulo): cálculo de áreas con Python.
+- 🔤 [contador-de-letras-python](https://github.com/luisbotteri/python-contador-letras): cuenta letras de una frase.
+- 🎲 [juego-de-adivinanza](https://github.com/luisbotteri/python-juego-adivinanza): juego simple de adivinanzas.
+- ✊ [juego-de-piedra-papel-o-tijera-python](https://github.com/luisbotteri/python-juego-ppt): clásico recreado en Python.
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisbotteri/)
+[![Hotmail](https://img.shields.io/badge/hotmail-red?style=flat&logo=gmail&logoColor=white)](mailto:luisbotteri30@hotmail.com)
