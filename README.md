@@ -1,3 +1,4 @@
+![](https://github.com/luisbotteri/luisbotteri/blob/8fcc84cfa6b1af4a7856383e324f831267c4abc0/portrait_image.jpg)
 # 👋 Hello! I'm Luie.
 
 🎓 Data Science Student  
