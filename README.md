@@ -13,12 +13,12 @@
 
 ## 📌 Featured Repos
 
-- 💱 [python-conversion-monedas](https://github.com/luisbotteri/python-conversion-monedas): Currency converter ARS ↔ EUR ↔ USD  
-- 🔐 [control-de-ingreso-python](https://github.com/luisbotteri/python-control-ingreso): Basic input validation system.
-- 🧮 [area-del-circulo-python](https://github.com/luisbotteri/python-area-circulo): Area calculation with Python.
-- 🔤 [contador-de-letras-python](https://github.com/luisbotteri/python-contador-letras): Count letters in a sentence.
-- 🎲 [juego-de-adivinanza](https://github.com/luisbotteri/python-juego-adivinanza): Simple guessing game.
-- ✊ [juego-de-piedra-papel-o-tijera-python](https://github.com/luisbotteri/python-juego-ppt): Classic recreated in Python.
+- 💱 [python-currency-conversion](https://github.com/luisbotteri/python-conversion-monedas): Currency converter ARS ↔ EUR ↔ USD  
+- 🔐 [python-login-control](https://github.com/luisbotteri/python-control-ingreso): Basic input validation system.
+- 🧮 [python-area-circle](https://github.com/luisbotteri/python-area-circulo): Area calculation with Python.
+- 🔤 [python-letter-counter](https://github.com/luisbotteri/python-contador-letras): Count letters in a sentence.
+- 🎲 [python-riddle-game](https://github.com/luisbotteri/python-juego-adivinanza): Simple guessing game.
+- ✊ [python-game-rock-paper-scissors](https://github.com/luisbotteri/python-juego-ppt): Classic recreated in Python.
 
 
 ## 📫 Contact
