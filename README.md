@@ -1,4 +1,3 @@
-![](https://github.com/luisbotteri/luisbotteri/blob/a6b32745a0492cf08ec662e54201f0bb6b613dbb/imagep.png)
 # 👋 Hello! I'm Luie.
 
 🎓 Data Science Student  
