@@ -23,5 +23,5 @@
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisbotteri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lhbotteri/)
 [![Hotmail](https://img.shields.io/badge/hotmail-grey?style=flat&logo=gmail&logoColor=white)](mailto:luisbotteri30@hotmail.com)
