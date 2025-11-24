@@ -1,5 +1,5 @@
 ![](https://github.com/luisbotteri/luisbotteri/blob/f1ffde7ea46d8dc4d4ae966c683eeb63a2850f71/12.png)
-# 👋 Hello! I'm Luie.
+# 👋 Hello! I'm Luis Botteri! 😁
 
 🎓 Data Science Student  
 🐍 Python Developer  
