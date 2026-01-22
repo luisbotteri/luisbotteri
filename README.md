@@ -13,6 +13,7 @@
 
 ## 📌 Featured Repos
 
+- 💍 [python-precious_goal_tracker](https://github.com/luisbotteri/py-precious_goal_tracker): One Ring goal counter widget: Interactive desktop counter with Sauron's eye animation.
 - 💱 [python-currency-conversion](https://github.com/luisbotteri/python-conversion-monedas): Currency converter ARS ↔ EUR ↔ USD  
 - 🔐 [python-login-control](https://github.com/luisbotteri/python-control-ingreso): Basic input validation system.
 - 💸 [python-expenser-divider](https://github.com/luisbotteri/python-expenser-divider): Expenser divider.
